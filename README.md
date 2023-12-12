@@ -41,7 +41,7 @@ How does the contract of a customer relate to the services they subscribe to?
 
 ### Status
 
-how is cltv related to satisfaction score?
+How is cltv related to satisfaction score?
 
 ### Customer segmentation 
 
