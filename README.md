@@ -4,6 +4,8 @@ The dataset used is sourced from IBM's telco customer records, a fictional telco
 
 SQL scripts consists of detailed analysis along with cleaning and transformations done on telco customer data.
 
+The insights from detailed analysis are published as visualization in Tableau [here](https://public.tableau.com/views/CustomerChurnAnalysisinTelecommunications/ServicesbyRegionandcontract?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 ## Key Findings
 
 ### Factors Contributing to Customer Churn
