@@ -6,6 +6,8 @@ SQL scripts consists of detailed analysis along with cleaning and transformation
 
 The insights from detailed analysis are published as visualization in Tableau [here](https://public.tableau.com/views/CustomerChurnAnalysisinTelecommunications/ServicesbyRegionandcontract?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+Detailed explaination of the insights is published [here](https://bindusri.hashnode.dev/data-analysis-with-sql)
+
 ## Key Findings
 
 ### Factors Contributing to Customer Churn
@@ -72,5 +74,3 @@ Analyze customer behavior based on a combination of factors such as age, locatio
 ### Correlation Analysis
 
 Use aggregations and statistical functions to identify correlations between variables such as satisfaction score, monthly charges, and tenure.
-
-Detailed explaination of the insights is published [here](https://bindusri.hashnode.dev/data-analysis-with-sql)
