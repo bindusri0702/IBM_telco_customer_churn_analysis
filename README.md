@@ -73,4 +73,4 @@ Analyze customer behavior based on a combination of factors such as age, locatio
 
 Use aggregations and statistical functions to identify correlations between variables such as satisfaction score, monthly charges, and tenure.
 
-
+Detailed explaination of the insights is published [here](https://bindusri.hashnode.dev/data-analysis-with-sql)
